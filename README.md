@@ -3,7 +3,7 @@
 The government's initiative to improve urban infrastructure and traffic management in smart cities involves leveraging advanced data analytics techniques. Among these, Decision Tree Classifier and XGBoost are employed as powerful tools for forecasting traffic patterns. This predictive model plays a crucial role in optimizing transportation systems, reducing traffic bottlenecks, and enhancing overall mobility for the citizens. The integration of state-of-the-art machine learning methodologies supports the government's mission to build sustainable and efficient urban environments, fostering a seamless and intelligent transportation ecosystem.
 
 ### Key Features
-- Decision Tree Classifier and XGBoost employed for traffic pattern forecasting
+- LSTM, Decision Tree Classifier, XGBoost, LightGBM and Random Forest Classifier are employed for traffic pattern forecasting
 - Integration of advanced machine learning methodologies
 - Code, data, and documentation for easy implementation
 - Insights to optimize transportation systems and reduce traffic bottlenecks
